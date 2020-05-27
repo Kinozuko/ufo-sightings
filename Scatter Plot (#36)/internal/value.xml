@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="viewValue">
+<entry key="chartTitle" type="xstring" value="Shaped by Sightings"/>
+<entry key="chartSubtitle" type="xstring" value="Days (2020-05-26) Since Sightings"/>
+<entry key="xCol" type="xstring" value="shape_category"/>
+<entry key="yCol" type="xstring" value="days_since_sightings"/>
+<entry key="xAxisLabel" type="xstring" value="Shaped"/>
+<entry key="yAxisLabel" type="xstring" value="Days"/>
+<entry key="xAxisMin" type="xstring" value="0.0"/>
+<entry key="xAxisMax" type="xstring" value="27.0"/>
+<entry key="yAxisMin" type="xstring" value="2210.0"/>
+<entry key="yAxisMax" type="xstring" value="40323.0"/>
+<entry key="dot_size" type="xstring" value="3"/>
+<config key="selectedKeys"/>
+<entry key="publishSelection" type="xboolean" value="true"/>
+<entry key="subscribeSelection" type="xboolean" value="true"/>
+<entry key="showSelectedOnly" type="xboolean" value="false"/>
+<entry key="subscribeFilter" type="xboolean" value="true"/>
+<entry key="showLegend" type="xboolean" value="false"/>
+</config>
