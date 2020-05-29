@@ -1,6 +1,10 @@
 # Shape UFO Sightings Prediction
 
-Model to predict the shape of an UFO Sightings using Knime Software.
+This project is a test to see how Knime works and how to create a workflow, it doesn't have any real application more than practice and fun.
+
+![](workflow.svg)
+
+Model to predict the shape of an UFO Sightings using Knime Software and Fuzzy Rules Model.
 
 Dataset provided by [Kaggle](https://www.kaggle.com/camnugent/ufo-sightings-around-the-world)
 
