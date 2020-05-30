@@ -41,19 +41,19 @@ Dataset provided by [Kaggle](https://www.kaggle.com/camnugent/ufo-sightings-arou
 ├── String To Number (#27)/
 ├── String to Date_Time (#22)/
 ├── data
-│   └── Correlation/
-│   		├──  matrix.csv
-│   		├── measure.csv
-│   		└── model.zip
-│   └── PMML/
-│   		└── categories_shape.pmml
-│   └── cleaning_dataset.csv
-│   └── scatter_data_plot.csv
-│   └── test_set.csv
-│   └── train_set.csv
+│   ├── Correlation/
+│   │	├──  matrix.csv
+│   │	├── measure.csv
+│   │	└── model.zip
+│   ├── PMML/
+│   │	└── categories_shape.pmml
+│   ├── cleaning_dataset.csv
+│   ├── scatter_data_plot.csv
+│   ├── test_set.csv
+│   ├── train_set.csv
 │   └── ufo_sighting_data.csv
 ├── images/
-│   └── correlation_matrix.vsg
+│   ├── correlation_matrix.vsg
 │   └── scatter_plot.svg
 ├── .savedWithData
 ├── README.md
